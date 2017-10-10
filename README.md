@@ -1,4 +1,4 @@
 # Dreamy Nights Screensaver
 
-Screensaver for Windows
+Screensaver for Windows.
 Made with OpenGL and ❤️
